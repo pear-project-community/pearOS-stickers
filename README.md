@@ -28,6 +28,5 @@ This is pearOS stickers for your computer ;)
 
 
 ## Copyright
-- This stickers is licensed under the GNU Public License v3
 - The stickers pack has made by enzo-zsh
 
